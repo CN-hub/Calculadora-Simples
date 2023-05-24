@@ -4,6 +4,6 @@
 Um clone do projeto (Calculadora Simples) GN | Gustavo Neitzke, créditos ao mesmo.
 
 ## Tecnologias ultilizadas:
- - HTML5,
- - CSS3,
- - JS.
+ - HTML5
+ - CSS3
+ - JS
